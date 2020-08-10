@@ -7,5 +7,3 @@ module.exports = {
   AUTH0_AUDIENCE: process.env.AUTH0_AUDIENCE,
   AUTH0_DOMAIN: process.env.AUTH0_DOMAIN,
 };
-
-// "mongodb+srv://ccb_user:ccb_user@devconnector-juq24.mongodb.net/portfolioDb?retryWrites=true&w=majority",
